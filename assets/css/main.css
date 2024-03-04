@@ -3,6 +3,8 @@
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    list-style-type: none;
+    text-decoration: none;
 }
 
 .container {
@@ -55,9 +57,11 @@
 .img_10 {
     width: 250px;
     height: 250px;
-    margin-top: 40px;       
+    margin-top: 40px;
 }
-a{
+
+a {
     position: absolute;
-    margin-top: 400px;
+    margin-top: 50px;
+    color: black;
 }
