@@ -65,3 +65,57 @@ a {
     margin-top: 50px;
     color: black;
 }
+
+p {
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+h1 {
+    margin-left: 530px;
+    margin-top: 15px;
+}
+
+span {
+    margin-left: -20px;
+}
+
+.zakaz {
+    margin-top: 25px;
+}
+
+.bi-wallet2 {
+    font-size: 35px;
+    position: absolute;
+    margin-top: 100px;
+}
+
+h2 {
+    position: absolute;
+    margin-top: 105px;
+    margin-left: 50px;
+}
+
+.bi-truck {
+    font-size: 35px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+.qw {
+    position: absolute;
+    margin-top: 50px;
+}
+
+.bi-telephone-outbound {
+    position: absolute;
+    margin-top: 160px;
+    font-size: 35px;
+}
+a{
+    position: absolute;
+    margin-top: 165px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 50px;
+}
