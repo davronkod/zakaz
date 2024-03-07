@@ -1,3 +1,3 @@
-// alert("assalomu alaykum");
-// confirm("xush kelibsiz");
-// prompt("ismingiz nima");
+alert("assalomu alaykum");
+confirm("xush kelibsiz");
+prompt("ismingiz nima");
